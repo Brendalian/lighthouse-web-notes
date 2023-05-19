@@ -1,6 +1,10 @@
-# brenda's Notes
+Table of Contents' header
 
-## Summary
-The repo taken by [brenda](https://github.com/Brendalian) for the Lighthouse labs web developer bootcamp.(https://www.lighthouselabs.ca/en/web-development)
+* Week 1
+  *Day 1
 
-This repository contains all of the notes taken by Brenda for the Lighthouse Labs Web Development Bootcamp. 
+1. Item One
+2. Item Two
+3. Item Three  
+
+[Week 1](/Week_1)
